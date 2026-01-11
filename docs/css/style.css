@@ -331,9 +331,77 @@ body {
 .practice blockquote {
   border-left: 3px solid var(--accent);
   padding-left: 1rem;
-  margin: 1rem 0;
+  margin: 1.5rem 0 0;
   font-style: italic;
   color: var(--text-primary);
+  opacity: 0.9;
+}
+
+/* Explanation blocks */
+.explanation-block {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  border-left: 3px solid var(--border);
+}
+
+.explanation-block.psych {
+  border-left-color: #4a9eff;
+  background: rgba(74, 158, 255, 0.05);
+}
+
+.explanation-block.psych h4 {
+  color: #4a9eff;
+}
+
+.explanation-block.warrior {
+  border-left-color: var(--accent);
+  background: rgba(201, 162, 39, 0.05);
+}
+
+.explanation-block.warrior h4 {
+  color: var(--accent);
+}
+
+.explanation-block.practice-block {
+  border-left-color: #50c878;
+  background: rgba(80, 200, 120, 0.05);
+}
+
+.explanation-block.practice-block h4 {
+  color: #50c878;
+}
+
+.explanation-block h4 {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.85rem;
+}
+
+.explanation-block p {
+  margin: 0;
+  color: var(--text-primary);
+  opacity: 0.9;
+}
+
+/* Practices Section */
+.practices-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.practices-section > h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.section-subtitle {
+  text-align: center;
+  color: var(--text-secondary);
+  margin-bottom: 3rem;
+  font-size: 1.1rem;
 }
 
 /* Glossary */
