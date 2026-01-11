@@ -8,7 +8,7 @@ const translations = {
     // Hero
     hero_title: "Путь <span>Воина</span>",
     hero_subtitle: "Практики из книг Карлоса Кастанеды — с психологическим объяснением, почему они работают.",
-    hero_cta: "К практикам",
+    hero_cta: "Читать",
 
     // Manifesto
     manifesto_badge: "Зачем это",
@@ -130,7 +130,7 @@ const translations = {
     // Hero
     hero_title: "Шлях <span>Воїна</span>",
     hero_subtitle: "Практики з книг Карлоса Кастанеди — з психологічним поясненням, чому вони працюють.",
-    hero_cta: "До практик",
+    hero_cta: "Читати",
 
     // Manifesto
     manifesto_badge: "Навіщо це",
@@ -252,7 +252,7 @@ const translations = {
     // Hero
     hero_title: "The Warrior's <span>Path</span>",
     hero_subtitle: "Practices from Carlos Castaneda's books — with psychological explanation of why they work.",
-    hero_cta: "To practices",
+    hero_cta: "Read",
 
     // Manifesto
     manifesto_badge: "Why this",
