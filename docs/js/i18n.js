@@ -7,14 +7,15 @@ const translations = {
 
     // Hero
     hero_title: "Путь <span>Воина</span>",
-    hero_subtitle: "Учение дона Хуана для современного мира. Древняя мудрость толтеков в практиках, которые меняют восприятие и дают силу.",
+    hero_subtitle: "Практики из книг Карлоса Кастанеды — с психологическим объяснением, почему они работают.",
     hero_cta: "К практикам",
 
     // Manifesto
-    manifesto_badge: "Путь знания",
-    manifesto_title: "Воин видит мир иначе",
-    manifesto_p1: "Каждая практика здесь работает на двух уровнях. Психология объясняет, почему это помогает справляться с тревогой, стрессом и автоматизмом мышления. Путь воина показывает более глубокий смысл — как эти техники меняют само восприятие реальности.",
-    manifesto_p2: "Можешь использовать только психологический слой — и получишь рабочие инструменты для ментального здоровья. А можешь пойти глубже — и открыть то, о чём говорил дон Хуан.",
+    manifesto_badge: "Зачем это",
+    manifesto_title: "База современной эзотерики",
+    manifesto_p1: "Книги Кастанеды (1968–1998) — это фундамент, на котором стоит почти вся современная эзотерика. Тони Роббинс, Экхарт Толле, Джо Диспенза, нью-эйдж курсы — всё это пересказ тех же идей другими словами. После Кастанеды в этой области не появилось ничего принципиально нового.",
+    manifesto_p2: "Сами практики не уникальны — они пересекаются с дзен-буддизмом (остановка внутреннего диалога), суфизмом (стирание эго), стоицизмом (смерть как советчик), шаманскими традициями Мексики. Кастанеда собрал это в единую систему и описал понятным языком.",
+    manifesto_p3: "Здесь каждая практика объясняется на двух уровнях: психология (почему это работает с точки зрения науки) и путь воина (как это понимал дон Хуан). Можешь брать только первое — уже будет польза.",
 
     // Practices section
     practices_title: "Практики",
@@ -128,14 +129,15 @@ const translations = {
 
     // Hero
     hero_title: "Шлях <span>Воїна</span>",
-    hero_subtitle: "Вчення дона Хуана для сучасного світу. Давня мудрість толтеків у практиках, що змінюють сприйняття і дають силу.",
+    hero_subtitle: "Практики з книг Карлоса Кастанеди — з психологічним поясненням, чому вони працюють.",
     hero_cta: "До практик",
 
     // Manifesto
-    manifesto_badge: "Шлях знання",
-    manifesto_title: "Воїн бачить світ інакше",
-    manifesto_p1: "Кожна практика тут працює на двох рівнях. Психологія пояснює, чому це допомагає справлятися з тривогою, стресом і автоматизмом мислення. Шлях воїна показує глибший сенс — як ці техніки змінюють саме сприйняття реальності.",
-    manifesto_p2: "Можеш використовувати лише психологічний шар — і отримаєш робочі інструменти для ментального здоров'я. А можеш піти глибше — і відкрити те, про що говорив дон Хуан.",
+    manifesto_badge: "Навіщо це",
+    manifesto_title: "База сучасної езотерики",
+    manifesto_p1: "Книги Кастанеди (1968–1998) — це фундамент, на якому стоїть майже вся сучасна езотерика. Тоні Роббінс, Екхарт Толле, Джо Діспенза, нью-ейдж курси — все це переказ тих самих ідей іншими словами. Після Кастанеди в цій галузі не з'явилося нічого принципово нового.",
+    manifesto_p2: "Самі практики не унікальні — вони перетинаються з дзен-буддизмом (зупинка внутрішнього діалогу), суфізмом (стирання его), стоїцизмом (смерть як порадник), шаманськими традиціями Мексики. Кастанеда зібрав це в єдину систему і описав зрозумілою мовою.",
+    manifesto_p3: "Тут кожна практика пояснюється на двох рівнях: психологія (чому це працює з точки зору науки) і шлях воїна (як це розумів дон Хуан). Можеш брати лише перше — вже буде користь.",
 
     // Practices section
     practices_title: "Практики",
@@ -249,14 +251,15 @@ const translations = {
 
     // Hero
     hero_title: "The Warrior's <span>Path</span>",
-    hero_subtitle: "Don Juan's teachings for the modern world. Ancient Toltec wisdom in practices that change perception and give power.",
+    hero_subtitle: "Practices from Carlos Castaneda's books — with psychological explanation of why they work.",
     hero_cta: "To practices",
 
     // Manifesto
-    manifesto_badge: "The path of knowledge",
-    manifesto_title: "A warrior sees the world differently",
-    manifesto_p1: "Each practice here works on two levels. Psychology explains why it helps with anxiety, stress, and automatic thinking. The warrior's path shows deeper meaning — how these techniques change perception itself.",
-    manifesto_p2: "You can use just the psychological layer — and get working tools for mental health. Or you can go deeper — and discover what Don Juan was talking about.",
+    manifesto_badge: "Why this",
+    manifesto_title: "The foundation of modern esotericism",
+    manifesto_p1: "Castaneda's books (1968–1998) are the foundation of almost all modern esotericism. Tony Robbins, Eckhart Tolle, Joe Dispenza, new-age courses — all of this is a retelling of the same ideas in different words. Nothing fundamentally new has emerged in this field since Castaneda.",
+    manifesto_p2: "The practices themselves aren't unique — they overlap with Zen Buddhism (stopping internal dialogue), Sufism (erasing ego), Stoicism (death as advisor), Mexican shamanic traditions. Castaneda assembled them into a unified system and described them in accessible language.",
+    manifesto_p3: "Here each practice is explained on two levels: psychology (why it works from a scientific perspective) and the warrior's path (how Don Juan understood it). You can take just the first — it will already be useful.",
 
     // Practices section
     practices_title: "Practices",
