@@ -1,0 +1,30 @@
+# Data files (copyrighted content)
+data/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+var/
